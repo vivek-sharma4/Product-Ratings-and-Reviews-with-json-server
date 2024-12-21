@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start:server": "json-server --watch /src/data/db.json"
+    "start-server": "json-server --watch /src/data/db.json"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.5.0",
